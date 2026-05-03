@@ -15,7 +15,7 @@ Explorar un dataset de más de 114.000 canciones de Spotify para identificar los
 - Power BI — construcción del dashboard interactivo
 
 ## Proceso
-os datos fueron limpiados con Python eliminando columnas irrelevantes, luego importados a PostgreSQL para el análisis. Finalmente se construyó un dashboard interactivo en Power BI con identidad visual inspirada en Spotify.
+Los datos fueron limpiados con Python eliminando columnas irrelevantes, luego importados a PostgreSQL para el análisis. Finalmente se construyó un dashboard interactivo en Power BI con identidad visual inspirada en Spotify.
 
 ## Hallazgos principales
 1. The Beatles es el artista con mayor popularidad acumulada en el dataset.
